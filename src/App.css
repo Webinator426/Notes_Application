@@ -1,0 +1,18 @@
+.App {
+  margin: 2rem;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+button {
+ margin-left: 20px;
+}
+
+ul {
+   list-style-type : none
+}
+
